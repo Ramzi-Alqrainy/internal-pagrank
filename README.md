@@ -14,5 +14,16 @@ There are two basic types of internal links:
 
 ![strict-internal-linking-for-seo-800x449](https://cloud.githubusercontent.com/assets/4533327/24578475/ae414334-16e9-11e7-8168-f4e8f5289e78.png)
 
+The first step to getting your internal links in order is to organize common navigation elements and adhere to a well-organized site structure. I recommend creating a classic internal linking structure and utilizing Bruce Clay’s silo architecture as a foundation for internal links.
+
+Step 1: Crawl with Screaming Frog
+
+We need to crawl our website. For this example, I use Screaming Frog, as it is a standard tool in an SEO practitioner’s arsenal.
+
+Start by launching Screaming Frog and crawling your website. When the crawl is finished, select Bulk Export > All Outlinks from the top menu, and save the CSV file to your desired location.
+
+![screamingfrog-outlinks](https://cloud.githubusercontent.com/assets/4533327/24578508/3283ce46-16ea-11e7-8ed8-86825be64cc6.png)
+
+
 
 
