@@ -34,6 +34,6 @@ install.packages("igraph")
 
 Once the library is installed, you will be able to use the code in this account.
 
-The output will be 
+## The output will be 
 
 ![cd-inlinks-screamingfrog](https://cloud.githubusercontent.com/assets/4533327/24578670/b8349bc6-16ed-11e7-9244-25cf4d0c06ac.png)
