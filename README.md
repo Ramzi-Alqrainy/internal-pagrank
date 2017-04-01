@@ -34,6 +34,8 @@ install.packages("igraph")
 
 Once the library is installed, you will be able to use the code in this account.
 
+<img width="989" alt="screen shot 2017-04-01 at 3 15 47 pm" src="https://cloud.githubusercontent.com/assets/4533327/24578697/3b11138a-16ee-11e7-801d-08771e26c328.png">
+
 ## The output will be 
 
 ![cd-inlinks-screamingfrog](https://cloud.githubusercontent.com/assets/4533327/24578670/b8349bc6-16ed-11e7-9244-25cf4d0c06ac.png)
