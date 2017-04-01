@@ -16,7 +16,7 @@ There are two basic types of internal links:
 
 The first step to getting your internal links in order is to organize common navigation elements and adhere to a well-organized site structure. I recommend creating a classic internal linking structure and utilizing Bruce Clay’s silo architecture as a foundation for internal links.
 
-Step 1: Crawl with Screaming Frog
+## Step 1: Crawl with Screaming Frog
 
 We need to crawl our website. For this example, I use Screaming Frog, as it is a standard tool in an SEO practitioner’s arsenal.
 
@@ -24,6 +24,16 @@ Start by launching Screaming Frog and crawling your website. When the crawl is f
 
 ![screamingfrog-outlinks](https://cloud.githubusercontent.com/assets/4533327/24578508/3283ce46-16ea-11e7-8ed8-86825be64cc6.png)
 
+The CSV contains a list of all the internal links on your website. We will use this list to create a network and calculate Internal PageRank.
 
+## Step 2: Calculate Internal PageRank with R
 
+Install the igraph library by launching the R console and executing:
 
+install.packages("igraph")
+
+Once the library is installed, you will be able to use the code in this account.
+
+The output will be 
+
+![cd-inlinks-screamingfrog](https://cloud.githubusercontent.com/assets/4533327/24578670/b8349bc6-16ed-11e7-9244-25cf4d0c06ac.png)
